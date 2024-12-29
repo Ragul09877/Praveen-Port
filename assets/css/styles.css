@@ -956,7 +956,7 @@ body.light-theme {
 @media screen and (min-width: 435px) {
   .work__container {
     justify-content: center;
-    grid-template-columns: repeat(2, max-content);
+    grid-template-columns: repeat(1, max-content);
   }
 
   .work__img {
@@ -1021,7 +1021,7 @@ body.light-theme {
 
   .work__container {
     justify-content: center;
-    grid-template-columns: repeat(2, max-content);
+    grid-template-columns: repeat(1, max-content);
   }
 
   .work__img {
@@ -1059,9 +1059,9 @@ body.light-theme {
   } 
 }
 
- @media screen and (min-width: 767px) {
+ @media screen and (min-width: 750px) {
    .work__container {
-    grid-template-columns: repeat(2, max-content);
+    grid-template-columns: repeat(1, max-content);
   } 
 
  .contact__info {
